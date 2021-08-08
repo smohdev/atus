@@ -1,0 +1,9 @@
+axes.spines.top:    False
+axes.spines.right:  False
+
+axes.labelsize : 20
+xtick.labelsize : 16
+ytick.labelsize : 16
+
+legend.fancybox:    False
+legend.fontsize:    14
